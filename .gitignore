@@ -1,1 +1,10 @@
 
+server/Servers/
+server/.metadata
+server/BackendModule/.metadata
+server/BackendModule/.settings
+server/egen/.settings/
+client/ui-frontend/.idea/libraries/ui_seed_node_modules.xml
+client/ui-frontend/.idea/workspace.xml
+client/ui-frontend/.idea/
+server/RemoteSystemsTempFiles/
